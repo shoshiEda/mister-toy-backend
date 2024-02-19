@@ -1,112 +1,133 @@
 [
-  {
-    "_id": "t101",
-    "name": "Bruklyn barbie",
-    "price": 44,
-    "labels": ["Doll", "Barbie"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/1.jpeg"
-   
-  },
-  {
-    "_id": "t102",
-    "name": "Fancy barbie",
-    "price": 45,
-    "labels": ["Doll", "Barbie"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/2.jpeg"
-  },
-  {
-    "_id": "t103",
-    "name": "Vacation barbie",
-    "price": 50,
-    "labels": ["Doll", "Barbie"],
-    "createdAt": 1631031801011,
-    "inStock": false,
-    "url":"./assets/img/3.jpeg"
-
-  },
-  {
-    "_id": "t104",
-    "name": "Ken barbie",
-    "price": 35,
-    "labels": ["Doll", "Barbie"],
-    "createdAt": 1631031801011,
-    "inStock": false,
-    "url":"./assets/img/4.jpeg"
-
-  },
-  {
-    "_id": "t105",
-    "name": "Talking Doll",
-    "price": 123,
-    "labels": ["Doll", "Battery Powered", "Baby"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/5.jpeg"
-
-  },
-  {
-    "_id": "t106",
-    "name": "Car",
-    "price": 280,
-    "labels": ["On wheels", "Battery Powered", "Outdoor"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/6.jpeg"
-
-  },
-  {
-    "_id": "t107",
-    "name": "Monopoly",
-    "price": 70,
-    "labels": ["Box game"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/7.jpeg"
-
-  },
-  {
-    "_id": "t108",
-    "name": "Puzzle 12000 pieces",
-    "price": 120,
-    "labels": ["Puzzle"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/8.jpeg"
-
-  },
-  {
-    "_id": "t109",
-    "name": "Baby table",
-    "price": 105,
-    "labels": ["Baby"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/9.jpeg"
-
-  },
-  {
-    "_id": "t110",
-    "name": "Baby university",
-    "price": 199,
-    "labels":  ["Baby"],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url":"./assets/img/10.jpeg"
-
-  },
-  {
-    "_id": "t111",
-    "name": "Baby toy",
-    "price": 23,
-    "labels":["Baby"],
-    "createdAt": 1631031801011,
-    "inStock": false,
-    "url":"./assets/img/11.jpeg"
-
-  }
-]    
- 
+    {
+        "name": "",
+        "price": 0,
+        "labels": [],
+        "inStock": "",
+        "_id": "Ebazg",
+        "createdAt": 1708352166131,
+        "owner": {
+            "fullname": "lala mama",
+            "score": 10000,
+            "_id": "1Vheb"
+        }
+    },
+    {
+        "_id": "t101",
+        "name": "Bruklyn barbie",
+        "price": 45,
+        "labels": [
+            "Doll",
+            "Barbie"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/1.jpeg"
+    },
+    {
+        "_id": "t102",
+        "name": "Fancy barbie",
+        "price": 45,
+        "labels": [
+            "Doll",
+            "Barbie"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/2.jpeg"
+    },
+    {
+        "_id": "t103",
+        "name": "Vacation barbie",
+        "price": 50,
+        "labels": [
+            "Doll",
+            "Barbie"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": false,
+        "url": "./assets/img/3.jpeg"
+    },
+    {
+        "_id": "t104",
+        "name": "Ken barbie",
+        "price": 35,
+        "labels": [
+            "Doll",
+            "Barbie"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": false,
+        "url": "./assets/img/4.jpeg"
+    },
+    {
+        "_id": "t105",
+        "name": "Talking Doll",
+        "price": 123,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/5.jpeg"
+    },
+    {
+        "_id": "t106",
+        "name": "Car",
+        "price": 280,
+        "labels": [
+            "On wheels",
+            "Battery Powered",
+            "Outdoor"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/6.jpeg"
+    },
+    {
+        "_id": "t107",
+        "name": "Monopoly",
+        "price": 70,
+        "labels": [
+            "Box game"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/7.jpeg"
+    },
+    {
+        "_id": "t108",
+        "name": "Puzzle 12000 pieces",
+        "price": 120,
+        "labels": [
+            "Puzzle"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/8.jpeg"
+    },
+    {
+        "_id": "t109",
+        "name": "Baby table",
+        "price": 105,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/9.jpeg"
+    },
+    {
+        "_id": "t110",
+        "name": "Baby university",
+        "price": 199,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true,
+        "url": "./assets/img/10.jpeg"
+    }
+]

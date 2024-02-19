@@ -72,3 +72,16 @@
 19.2.2024, 12:04:17 - INFO - Server listening on port http://127.0.0.1:3030/
 19.2.2024, 12:05:10 - INFO - Server listening on port http://127.0.0.1:3030/
 19.2.2024, 12:05:22 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:06:01 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:08:59 - INFO - loggedinUser toy delete: | {"_id":"1Vheb","fullname":"lala mama","score":10000}
+19.2.2024, 16:12:07 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:12:14 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:12:18 - INFO - loggedinUser toy delete: | {"_id":"1Vheb","fullname":"lala mama","score":10000}
+19.2.2024, 16:14:29 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:14:33 - INFO - loggedinUser toy delete: | {"_id":"1Vheb","fullname":"lala mama","score":10000}
+19.2.2024, 16:15:08 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:15:17 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:15:20 - INFO - loggedinUser toy delete: | {"_id":"1Vheb","fullname":"lala mama","score":10000}
+19.2.2024, 16:15:20 - INFO - Toy t111 removed
+19.2.2024, 16:15:51 - INFO - Server listening on port http://127.0.0.1:3030/
+19.2.2024, 16:18:18 - INFO - Server listening on port http://127.0.0.1:3030/

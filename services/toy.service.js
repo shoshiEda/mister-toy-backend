@@ -42,13 +42,14 @@ function getById(toyId) {
 }
 
 function remove(toyId, loggedinUser) {
+    console.log(toys)
     const idx = toys.findIndex(toy => toy._id === toyId)
     if (idx === -1) return Promise.reject('No Such Toy')
     const toy = toys[idx]
-    if (!loggedinUser.isAdmin &&
+   /* if (!loggedinUser.isAdmin &&
         toy.owner._id !== loggedinUser._id) {
         return Promise.reject('Not your toy')
-    }
+    }*/
     toys.splice(idx, 1)
     return _saveToysToFile()
 }
@@ -56,10 +57,10 @@ function remove(toyId, loggedinUser) {
 function save(toy, loggedinUser) {
     if (toy._id) {
         const toyToUpdate = toys.find(currToy => currToy._id === toy._id)
-        if (!loggedinUser.isAdmin &&
+       /* if (!loggedinUser.isAdmin &&
             toyToUpdate.owner._id !== loggedinUser._id) {
             return Promise.reject('Not your toy')
-        }
+        }*/
         toyToUpdate.name = toy.name
         toyToUpdate.price = toy.price
         toyToUpdate.inStock = toy.inStock
@@ -80,7 +81,7 @@ function save(toy, loggedinUser) {
 }
 
 
-function _saveToyssToFile() {
+function _saveToysToFile() {
     return new Promise((resolve, reject) => {
         const data = JSON.stringify(toys, null, 4)
         fs.writeFile('data/toy.json', data, (err) => {
