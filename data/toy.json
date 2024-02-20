@@ -1,16 +1,14 @@
 [
     {
-        "name": "",
-        "price": 0,
-        "labels": [],
-        "inStock": "",
-        "_id": "Ebazg",
-        "createdAt": 1708352166131,
-        "owner": {
-            "fullname": "lala mama",
-            "score": 10000,
-            "_id": "1Vheb"
-        }
+        "name": "מלבי הכלבה המגניבה",
+        "price": 250,
+        "labels": [
+            "Baby",
+            "Doll"
+        ],
+        "inStock": true,
+        "_id": "S2qqE",
+        "createdAt": 1708444449214
     },
     {
         "_id": "t101",
@@ -22,12 +20,12 @@
         ],
         "createdAt": 1631031801011,
         "inStock": true,
-        "url": "./assets/img/1.jpeg"
+        "url": "../assets/img/1.jpeg"
     },
     {
         "_id": "t102",
-        "name": "Fancy barbie",
-        "price": 45,
+        "name": "Fancy barbie2",
+        "price": 48,
         "labels": [
             "Doll",
             "Barbie"
