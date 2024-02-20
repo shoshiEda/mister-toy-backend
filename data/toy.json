@@ -1,11 +1,11 @@
 [
     {
-        "name": "",
-        "price": 0,
+        "name": "vhgg",
+        "price": 20,
         "labels": [],
         "inStock": "",
-        "_id": "Ebazg",
-        "createdAt": 1708352166131,
+        "_id": "gAzTJ",
+        "createdAt": 1708366991479,
         "owner": {
             "fullname": "lala mama",
             "score": 10000,
@@ -22,12 +22,12 @@
         ],
         "createdAt": 1631031801011,
         "inStock": true,
-        "url": "./assets/img/1.jpeg"
+        "url": "../assets/img/1.jpeg"
     },
     {
         "_id": "t102",
-        "name": "Fancy barbie",
-        "price": 45,
+        "name": "Fancy barbie2",
+        "price": 48,
         "labels": [
             "Doll",
             "Barbie"
