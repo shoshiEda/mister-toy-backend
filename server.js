@@ -38,7 +38,7 @@ if (process.env.NODE_ENV === 'production') {
 
 // routes
 
-import { authRoutes } from './'
+/*import { authRoutes } from './'
 app.use('/api/auth', authRoutes)
 
 import { userRoutes } from './api/user/user.routes.js'
@@ -56,7 +56,7 @@ app.get('/**', (req, res) => {
 })
 
 
-/*// REST API for toys
+/* REST API for toys
 
 // toy LIST
 app.get('/api/toy', (req, res) => {
@@ -229,6 +229,6 @@ app.get('/**', (req, res) => {
 */
 const port = process.env.PORT || 3030
 
-app.listen(PORT, () =>
-    loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
+app.listen(port, () =>
+    loggerService.info(`Server listening on port http://127.0.0.1:${port}/`)
 )
