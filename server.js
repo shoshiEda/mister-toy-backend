@@ -1,31 +1,62 @@
-import path from 'path'
+import path, { dirname } from 'path'
 import express from 'express'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
+import { fileURLToPath } from 'url'
+
 
 import { toyService } from './services/toy.service.js'
 import { userService } from './services/user.service.js'
 import { loggerService } from './services/logger.service.js'
 
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
+
+loggerService.info('server.js loaded...')
+
 const app = express()
 
 // Express Config:
-const corsOptions = {
-    origin: [
-        'http://127.0.0.1:3030',
-        'http://localhost:3030',
-        'http://127.0.0.1:5173',
-        'http://localhost:5173',
-    ],
-    credentials: true
-}
-app.use(cors(corsOptions))
+
 app.use(express.static('public'))
 app.use(cookieParser())
 app.use(express.json())
 
+if (process.env.NODE_ENV === 'production') {
+    // Express serve static files on production environment
+    app.use(express.static(path.resolve(__dirname, 'public')))
+    console.log('__dirname: ', __dirname)
+} else {
+    // Configuring CORS
+    const corsOptions = {
+        // Make sure origin contains the url your frontend is running on
+        origin: ['http://127.0.0.1:5173', 'http://localhost:5173','http://127.0.0.1:3000', 'http://localhost:3000'],
+        credentials: true
+    }
+    app.use(cors(corsOptions))
+}
 
-// REST API for toys
+// routes
+
+import { authRoutes } from './'
+app.use('/api/auth', authRoutes)
+
+import { userRoutes } from './api/user/user.routes.js'
+app.use('/api/user', userRoutes)
+
+import { carRoutes } from './api/car/car.routes.js'
+app.use('/api/car', carRoutes)
+
+// Make every unmatched server-side-route fall back to index.html
+// So when requesting http://localhost:3030/index.html/car/123 it will still respond with
+// our SPA (single page app) (the index.html file) and allow vue-router to take it from there
+
+app.get('/**', (req, res) => {
+    res.sendFile(path.resolve('public/index.html'))
+})
+
+
+/*// REST API for toys
 
 // toy LIST
 app.get('/api/toy', (req, res) => {
@@ -113,7 +144,7 @@ app.delete('/api/toy/:toyId', (req, res) => {
     /*if (!loggedinUser) {
         loggerService.info('Cannot remove toy, No user')
         return res.status(401).send('Cannot remove toy')
-    }*/
+    }
 
     const { toyId } = req.params
     toyService.remove(toyId, loggedinUser)
@@ -195,8 +226,9 @@ app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
 
+*/
+const port = process.env.PORT || 3030
 
-const PORT = 3030
 app.listen(PORT, () =>
     loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
 )
