@@ -59,7 +59,7 @@ function remove(toyId, loggedinUser) {
     return _saveToysToFile()
 }
 
-function save(toy, loggedinUser) {
+function save(toy) {
     console.log(toy)
     if (toy._id) {
         const toyToUpdate = toys.find(currToy => currToy._id === toy._id)

@@ -41,5 +41,19 @@
         "fullname": "lala mama",
         "score": 10000,
         "_id": "1Vheb"
+    },
+    {
+        "username": "shoshi",
+        "password": "2901",
+        "fullname": "shoshi eda",
+        "score": 10000,
+        "_id": "jdSKc"
+    },
+    {
+        "username": "yacov",
+        "password": "1405",
+        "fullname": "yacov eda",
+        "score": 10000,
+        "_id": "KrooM"
     }
 ]

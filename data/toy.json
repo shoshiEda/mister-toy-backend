@@ -1,10 +1,21 @@
 [
     {
-        "name": "מלבי הכלבה המגניבה",
-        "price": 250,
+        "name": "chonchon",
+        "price": 500,
         "labels": [
-            "Baby",
-            "Doll"
+            "Box game",
+            "Art"
+        ],
+        "inStock": true,
+        "_id": "u0a5J",
+        "createdAt": 1708717749988
+    },
+    {
+        "name": "מלבי הכלבה המגניבה",
+        "price": 251,
+        "labels": [
+            "Art",
+            "Baby"
         ],
         "inStock": true,
         "_id": "S2qqE",
