@@ -239,3 +239,821 @@
 24.2.2024, 2:03:01 - INFO - Server listening on port http://127.0.0.1:3030/
 24.2.2024, 2:03:07 - INFO - server.js loaded...
 24.2.2024, 2:03:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 2:40:19 - INFO - server.js loaded...
+24.2.2024, 2:40:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 2:40:25 - INFO - server.js loaded...
+24.2.2024, 2:40:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 2:40:35 - INFO - Req was made | /
+24.2.2024, 2:40:35 - DEBUG - Getting Cars | {"txt":""}
+24.2.2024, 2:40:35 - ERROR - Failed to get cars | ReferenceError: carService is not defined
+24.2.2024, 2:43:30 - INFO - server.js loaded...
+24.2.2024, 2:43:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 2:48:13 - INFO - server.js loaded...
+24.2.2024, 2:48:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 2:59:33 - INFO - server.js loaded...
+24.2.2024, 2:59:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 2:59:40 - INFO - Req was made | /
+24.2.2024, 2:59:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 2:59:40 - ERROR - cannot find toyss | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 2:59:40 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:01:58 - INFO - server.js loaded...
+24.2.2024, 3:01:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 3:02:04 - INFO - Req was made | /
+24.2.2024, 3:02:04 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 3:02:04 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:02:04 - ERROR - cannot find toyss | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:03:07 - INFO - server.js loaded...
+24.2.2024, 3:03:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 3:03:11 - INFO - Req was made | /
+24.2.2024, 3:03:11 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 3:03:11 - ERROR - cannot find toyss | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:03:11 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:03:32 - INFO - server.js loaded...
+24.2.2024, 3:03:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 3:03:38 - INFO - Req was made | /
+24.2.2024, 3:03:38 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 3:03:38 - ERROR - cannot find toyss | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:03:38 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 3:04:43 - INFO - server.js loaded...
+24.2.2024, 3:04:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:19:27 - INFO - Req was made | /
+24.2.2024, 15:19:27 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:19:27 - ERROR - cannot find toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:19:27 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:24:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:24:32 - INFO - server.js loaded...
+24.2.2024, 15:24:36 - INFO - Req was made | /
+24.2.2024, 15:24:36 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:24:36 - ERROR - cannot find toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:24:36 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:25:27 - INFO - server.js loaded...
+24.2.2024, 15:25:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:25:30 - INFO - Req was made | /
+24.2.2024, 15:25:30 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:25:30 - ERROR - Cannot get toys | TypeError: Assignment to constant variable.
+24.2.2024, 15:26:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:26:17 - INFO - server.js loaded...
+24.2.2024, 15:26:21 - INFO - Req was made | /
+24.2.2024, 15:26:21 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:26:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:26:50 - INFO - server.js loaded...
+24.2.2024, 15:26:54 - INFO - Req was made | /
+24.2.2024, 15:26:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:27:58 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:27:58 - INFO - server.js loaded...
+24.2.2024, 15:28:00 - INFO - Req was made | /
+24.2.2024, 15:28:00 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:28:47 - INFO - server.js loaded...
+24.2.2024, 15:28:47 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:28:51 - INFO - Req was made | /
+24.2.2024, 15:28:51 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:28:51 - ERROR - cannot find toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:28:51 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:31:19 - INFO - server.js loaded...
+24.2.2024, 15:31:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:31:22 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:31:22 - INFO - Req was made | /
+24.2.2024, 15:31:22 - ERROR - cannot find toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:31:22 - ERROR - Cannot get toys | MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+24.2.2024, 15:33:00 - INFO - server.js loaded...
+24.2.2024, 15:33:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:33:05 - INFO - Req was made | /
+24.2.2024, 15:33:05 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:33:08 - INFO - Req was made | /
+24.2.2024, 15:33:08 - DEBUG - Getting Toys | {"name":"b","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:33:09 - DEBUG - Getting Toys | {"name":"bar","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:33:09 - INFO - Req was made | /
+24.2.2024, 15:33:12 - INFO - Req was made | /
+24.2.2024, 15:33:12 - DEBUG - Getting Toys | {"name":"barb","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:33:13 - INFO - Req was made | /
+24.2.2024, 15:33:13 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:33:17 - INFO - Req was made | /
+24.2.2024, 15:33:17 - DEBUG - Getting Toys | {"name":"","maxPrice":100,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:33:17 - ERROR - Cannot get toys | MongoServerError: unknown operator: $ste
+24.2.2024, 15:33:17 - ERROR - cannot find toys | MongoServerError: unknown operator: $ste
+24.2.2024, 15:33:21 - INFO - Req was made | /
+24.2.2024, 15:33:21 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:34:09 - INFO - server.js loaded...
+24.2.2024, 15:34:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:34:24 - INFO - server.js loaded...
+24.2.2024, 15:34:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:34:26 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:34:26 - INFO - Req was made | /
+24.2.2024, 15:34:32 - INFO - Req was made | /
+24.2.2024, 15:34:32 - DEBUG - Getting Toys | {"name":"b","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:34:33 - INFO - Req was made | /
+24.2.2024, 15:34:33 - DEBUG - Getting Toys | {"name":"bar","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:34:53 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:34:53 - INFO - Req was made | /
+24.2.2024, 15:34:55 - INFO - Req was made | /
+24.2.2024, 15:34:55 - DEBUG - Getting Toys | {"name":"","maxPrice":100,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:34:55 - ERROR - Cannot get toys | MongoServerError: unknown operator: $ste
+24.2.2024, 15:34:55 - ERROR - cannot find toys | MongoServerError: unknown operator: $ste
+24.2.2024, 15:37:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:37:52 - INFO - server.js loaded...
+24.2.2024, 15:37:59 - INFO - Req was made | /
+24.2.2024, 15:37:59 - DEBUG - Getting Toys | {"name":"","maxPrice":100,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:38:03 - INFO - Req was made | /
+24.2.2024, 15:38:03 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:38:06 - INFO - Req was made | /
+24.2.2024, 15:38:06 - DEBUG - Getting Toys | {"name":"b","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:38:06 - INFO - Req was made | /
+24.2.2024, 15:38:06 - DEBUG - Getting Toys | {"name":"bar","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:38:10 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:38:10 - INFO - Req was made | /
+24.2.2024, 15:40:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:40:05 - INFO - server.js loaded...
+24.2.2024, 15:40:09 - INFO - Req was made | /
+24.2.2024, 15:40:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:40:14 - INFO - Req was made | /
+24.2.2024, 15:40:14 - DEBUG - Getting Toys | {"name":"מלב","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:40:16 - INFO - Req was made | /
+24.2.2024, 15:40:16 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:42:53 - INFO - server.js loaded...
+24.2.2024, 15:42:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:43:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:43:07 - INFO - server.js loaded...
+24.2.2024, 15:43:11 - INFO - Req was made | /
+24.2.2024, 15:43:11 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:43:15 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:43:15 - INFO - Req was made | /
+24.2.2024, 15:43:22 - INFO - Req was made | /
+24.2.2024, 15:43:22 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"false","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:43:23 - INFO - Req was made | /
+24.2.2024, 15:43:23 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:44:44 - INFO - server.js loaded...
+24.2.2024, 15:44:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:44:49 - INFO - Req was made | /
+24.2.2024, 15:44:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:44:52 - INFO - Req was made | /
+24.2.2024, 15:44:52 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:44:54 - INFO - Req was made | /
+24.2.2024, 15:44:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"false","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:44:58 - INFO - Req was made | /
+24.2.2024, 15:44:58 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:45:15 - INFO - server.js loaded...
+24.2.2024, 15:45:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:45:29 - INFO - Req was made | /
+24.2.2024, 15:45:29 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:45:31 - INFO - Req was made | /
+24.2.2024, 15:45:31 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:45:33 - INFO - Req was made | /
+24.2.2024, 15:45:33 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:45:39 - INFO - Req was made | /
+24.2.2024, 15:45:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:45:48 - INFO - Req was made | /
+24.2.2024, 15:45:48 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"false","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:45:50 - INFO - Req was made | /
+24.2.2024, 15:45:50 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:47:18 - INFO - server.js loaded...
+24.2.2024, 15:47:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:47:24 - INFO - Req was made | /
+24.2.2024, 15:47:24 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:47:26 - INFO - Req was made | /
+24.2.2024, 15:47:26 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:47:28 - INFO - Req was made | /
+24.2.2024, 15:47:28 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:49:49 - INFO - server.js loaded...
+24.2.2024, 15:49:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:49:55 - INFO - Req was made | /
+24.2.2024, 15:49:55 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:49:58 - INFO - Req was made | /
+24.2.2024, 15:49:58 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:50:14 - INFO - Req was made | /
+24.2.2024, 15:50:14 - DEBUG - Getting Toys | {"name":"","maxPrice":100,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:52:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:52:04 - INFO - server.js loaded...
+24.2.2024, 15:52:07 - INFO - Req was made | /
+24.2.2024, 15:52:07 - DEBUG - Getting Toys | {"name":"","maxPrice":100,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:52:09 - INFO - Req was made | /
+24.2.2024, 15:52:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:52:14 - INFO - Req was made | /
+24.2.2024, 15:52:14 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"true","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:52:17 - INFO - Req was made | /
+24.2.2024, 15:52:17 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"false","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:52:19 - INFO - Req was made | /
+24.2.2024, 15:52:19 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:53:28 - INFO - server.js loaded...
+24.2.2024, 15:53:28 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:53:31 - INFO - Req was made | /
+24.2.2024, 15:53:31 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Box game"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:53:31 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:55:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:55:49 - INFO - Req was made | /
+24.2.2024, 15:55:50 - INFO - Req was made | /
+24.2.2024, 15:55:50 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:55:50 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:55:51 - INFO - Req was made | /
+24.2.2024, 15:55:51 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art","Baby"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:55:51 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:56:37 - INFO - server.js loaded...
+24.2.2024, 15:56:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:56:50 - INFO - server.js loaded...
+24.2.2024, 15:56:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:56:55 - INFO - Req was made | /
+24.2.2024, 15:56:55 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:56:55 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:56:55 - INFO - Req was made | /
+24.2.2024, 15:56:55 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:56:59 - INFO - Req was made | /
+24.2.2024, 15:56:59 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:56:59 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:58:23 - INFO - server.js loaded...
+24.2.2024, 15:58:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:58:29 - INFO - Req was made | /
+24.2.2024, 15:58:29 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:58:32 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:58:32 - INFO - Req was made | /
+24.2.2024, 15:58:36 - INFO - Req was made | /
+24.2.2024, 15:58:36 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Box game"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:58:36 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:59:01 - INFO - server.js loaded...
+24.2.2024, 15:59:01 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:59:10 - INFO - server.js loaded...
+24.2.2024, 15:59:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 15:59:15 - INFO - Req was made | /
+24.2.2024, 15:59:15 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:18 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:18 - INFO - Req was made | /
+24.2.2024, 15:59:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Box game"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:20 - INFO - Req was made | /
+24.2.2024, 15:59:28 - INFO - Req was made | /
+24.2.2024, 15:59:28 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Box game","Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:28 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:59:28 - INFO - Req was made | /
+24.2.2024, 15:59:28 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:37 - INFO - Req was made | /
+24.2.2024, 15:59:37 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art","Baby"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:37 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:59:39 - ERROR - Failed to get car | ReferenceError: carService is not defined
+24.2.2024, 15:59:39 - INFO - Req was made | /
+24.2.2024, 15:59:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art","Baby"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:39 - ERROR - Cannot get toys | ReferenceError: labels is not defined
+24.2.2024, 15:59:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 15:59:54 - INFO - Req was made | /
+24.2.2024, 16:00:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:00:46 - INFO - server.js loaded...
+24.2.2024, 16:00:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:00:49 - INFO - Req was made | /
+24.2.2024, 16:00:52 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:00:52 - INFO - Req was made | /
+24.2.2024, 16:00:55 - INFO - Req was made | /
+24.2.2024, 16:00:55 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art","Doll"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:01:03 - INFO - Req was made | /
+24.2.2024, 16:01:03 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:01:04 - INFO - Req was made | /
+24.2.2024, 16:01:04 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art","Baby"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:01:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":["Art"],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:01:08 - INFO - Req was made | /
+24.2.2024, 16:01:08 - INFO - Req was made | /
+24.2.2024, 16:01:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:05:33 - INFO - server.js loaded...
+24.2.2024, 16:05:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:05:41 - DEBUG - Getting Toys | {"name":"","maxPrice":100,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:05:41 - INFO - Req was made | /
+24.2.2024, 16:05:44 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:05:44 - INFO - Req was made | /
+24.2.2024, 16:08:41 - INFO - server.js loaded...
+24.2.2024, 16:08:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:08:50 - INFO - Req was made | /
+24.2.2024, 16:08:50 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:08:54 - INFO - Req was made | /
+24.2.2024, 16:08:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"name","sortByDir":"false"}
+24.2.2024, 16:08:54 - ERROR - Cannot get toys | ReferenceError: toysToReturn is not defined
+24.2.2024, 16:09:12 - INFO - server.js loaded...
+24.2.2024, 16:09:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:09:14 - INFO - Req was made | /
+24.2.2024, 16:09:14 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:09:18 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"name","sortByDir":"false"}
+24.2.2024, 16:09:18 - INFO - Req was made | /
+24.2.2024, 16:10:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:10:29 - INFO - server.js loaded...
+24.2.2024, 16:10:36 - INFO - server.js loaded...
+24.2.2024, 16:10:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:10:41 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:10:41 - INFO - Req was made | /
+24.2.2024, 16:10:44 - INFO - Req was made | /
+24.2.2024, 16:10:44 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"name","sortByDir":"false"}
+24.2.2024, 16:10:46 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"name","sortByDir":"true"}
+24.2.2024, 16:10:46 - INFO - Req was made | /
+24.2.2024, 16:10:47 - INFO - Req was made | /
+24.2.2024, 16:10:47 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"name","sortByDir":"false"}
+24.2.2024, 16:11:04 - INFO - server.js loaded...
+24.2.2024, 16:11:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:14:59 - INFO - server.js loaded...
+24.2.2024, 16:14:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:15:05 - INFO - server.js loaded...
+24.2.2024, 16:15:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:15:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:15:09 - INFO - Req was made | /
+24.2.2024, 16:15:13 - INFO - Req was made | /
+24.2.2024, 16:15:13 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"price","sortByDir":"false"}
+24.2.2024, 16:15:16 - INFO - Req was made | /
+24.2.2024, 16:15:16 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"price","sortByDir":"true"}
+24.2.2024, 16:15:17 - INFO - Req was made | /
+24.2.2024, 16:15:17 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"price","sortByDir":"false"}
+24.2.2024, 16:15:19 - INFO - Req was made | /
+24.2.2024, 16:15:19 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"createdAt","sortByDir":"false"}
+24.2.2024, 16:15:21 - INFO - Req was made | /
+24.2.2024, 16:15:21 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"createdAt","sortByDir":"true"}
+24.2.2024, 16:15:22 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"createdAt","sortByDir":"false"}
+24.2.2024, 16:15:22 - INFO - Req was made | /
+24.2.2024, 16:15:25 - INFO - Req was made | /
+24.2.2024, 16:15:25 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:16:52 - INFO - server.js loaded...
+24.2.2024, 16:16:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:16:56 - INFO - Req was made | /
+24.2.2024, 16:16:56 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:18:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:18:02 - INFO - server.js loaded...
+24.2.2024, 16:18:06 - INFO - Req was made | /
+24.2.2024, 16:18:06 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:21:14 - INFO - server.js loaded...
+24.2.2024, 16:21:14 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:23:41 - INFO - server.js loaded...
+24.2.2024, 16:23:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:23:45 - INFO - Req was made | /
+24.2.2024, 16:23:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:24:25 - INFO - server.js loaded...
+24.2.2024, 16:24:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:24:59 - INFO - server.js loaded...
+24.2.2024, 16:24:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:25:09 - INFO - Req was made | /
+24.2.2024, 16:25:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:26:50 - INFO - server.js loaded...
+24.2.2024, 16:26:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:26:57 - INFO - server.js loaded...
+24.2.2024, 16:26:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:27:03 - INFO - Req was made | /
+24.2.2024, 16:27:03 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:27:18 - INFO - server.js loaded...
+24.2.2024, 16:27:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:27:21 - INFO - Req was made | /
+24.2.2024, 16:27:21 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:28:32 - INFO - server.js loaded...
+24.2.2024, 16:28:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:28:34 - ERROR - Failed to get car | ReferenceError: carService is not defined
+24.2.2024, 16:28:34 - INFO - Req was made | /
+24.2.2024, 16:28:34 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:29:43 - INFO - server.js loaded...
+24.2.2024, 16:29:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:29:46 - INFO - Req was made | /
+24.2.2024, 16:29:46 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:29:49 - ERROR - Failed to get car | ReferenceError: carService is not defined
+24.2.2024, 16:29:49 - INFO - Req was made | /
+24.2.2024, 16:29:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:31:01 - INFO - server.js loaded...
+24.2.2024, 16:31:01 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:31:03 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:31:03 - INFO - Req was made | /
+24.2.2024, 16:31:04 - ERROR - while finding car u0a5J | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:31:04 - ERROR - Failed to get toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:31:05 - INFO - Req was made | /
+24.2.2024, 16:31:05 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:31:09 - ERROR - while finding car u0a5J | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:31:09 - ERROR - Failed to get toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:31:10 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:31:10 - INFO - Req was made | /
+24.2.2024, 16:32:05 - ERROR - while finding car t101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:32:05 - ERROR - Failed to get toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:32:05 - INFO - Req was made | /
+24.2.2024, 16:32:05 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:32:19 - INFO - server.js loaded...
+24.2.2024, 16:32:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:32:27 - INFO - Req was made | /
+24.2.2024, 16:32:27 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:32:41 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:32:41 - INFO - Req was made | /
+24.2.2024, 16:35:59 - INFO - server.js loaded...
+24.2.2024, 16:35:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:36:30 - INFO - server.js loaded...
+24.2.2024, 16:36:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:36:34 - INFO - Req was made | /
+24.2.2024, 16:36:34 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:36:38 - INFO - Req was made | /
+24.2.2024, 16:36:38 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:39:43 - INFO - server.js loaded...
+24.2.2024, 16:39:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:39:48 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:39:48 - INFO - Req was made | /
+24.2.2024, 16:39:50 - ERROR - while finding car undefined | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+24.2.2024, 16:39:50 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+24.2.2024, 16:39:50 - INFO - Req was made | /
+24.2.2024, 16:39:50 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:41:03 - INFO - server.js loaded...
+24.2.2024, 16:41:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:42:44 - INFO - server.js loaded...
+24.2.2024, 16:42:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:42:50 - INFO - server.js loaded...
+24.2.2024, 16:42:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:42:56 - INFO - Req was made | /
+24.2.2024, 16:42:56 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:42:58 - ERROR - while finding car undefined | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+24.2.2024, 16:42:58 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+24.2.2024, 16:42:58 - INFO - Req was made | /
+24.2.2024, 16:42:58 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:43:51 - INFO - server.js loaded...
+24.2.2024, 16:43:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:43:58 - INFO - Req was made | /
+24.2.2024, 16:43:58 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:44:25 - INFO - server.js loaded...
+24.2.2024, 16:44:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:44:27 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:44:27 - INFO - Req was made | /
+24.2.2024, 16:44:32 - INFO - Req was made | /
+24.2.2024, 16:44:32 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:44:36 - INFO - server.js loaded...
+24.2.2024, 16:44:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 16:44:39 - INFO - Req was made | /
+24.2.2024, 16:44:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 16:44:40 - ERROR - while finding car u0a5J | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:44:40 - ERROR - Failed to get toy | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+24.2.2024, 16:44:40 - INFO - Req was made | /
+24.2.2024, 16:44:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:02:03 - INFO - server.js loaded...
+24.2.2024, 17:02:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:02:08 - INFO - Req was made | /
+24.2.2024, 17:02:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:03:18 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:03:18 - INFO - Req was made | /
+24.2.2024, 17:03:43 - INFO - Req was made | /
+24.2.2024, 17:03:43 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:04:12 - INFO - Req was made | /
+24.2.2024, 17:04:12 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:04:41 - INFO - server.js loaded...
+24.2.2024, 17:04:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:04:44 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:04:44 - INFO - Req was made | /
+24.2.2024, 17:04:52 - ERROR - while finding car 65da04c5b6dc3298de6adb32 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+24.2.2024, 17:04:52 - ERROR - Failed to get toy | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+24.2.2024, 17:04:52 - INFO - Req was made | /
+24.2.2024, 17:04:52 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:05:12 - INFO - server.js loaded...
+24.2.2024, 17:05:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:05:16 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:05:16 - INFO - Req was made | /
+24.2.2024, 17:05:20 - INFO - Req was made | /
+24.2.2024, 17:05:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:08:05 - INFO - Req was made | /
+24.2.2024, 17:08:05 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:08:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:08:20 - INFO - Req was made | /
+24.2.2024, 17:08:32 - INFO - Req was made | /
+24.2.2024, 17:08:32 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:09:12 - INFO - Req was made | /
+24.2.2024, 17:09:12 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:11:46 - INFO - Req was made | /
+24.2.2024, 17:11:46 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:12:00 - INFO - Req was made | /
+24.2.2024, 17:12:00 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:13:34 - INFO - Req was made | /
+24.2.2024, 17:13:34 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:13:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:13:39 - INFO - Req was made | /
+24.2.2024, 17:13:42 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:13:42 - INFO - Req was made | /
+24.2.2024, 17:13:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:13:45 - INFO - Req was made | /
+24.2.2024, 17:15:56 - INFO - Req was made | /
+24.2.2024, 17:15:56 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:16:00 - INFO - Req was made | /
+24.2.2024, 17:16:00 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:16:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:16:40 - INFO - Req was made | /
+24.2.2024, 17:16:48 - INFO - Req was made | /
+24.2.2024, 17:16:48 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:19:32 - INFO - Req was made | /
+24.2.2024, 17:19:32 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:19:39 - INFO - Req was made | /
+24.2.2024, 17:19:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:20:26 - INFO - Req was made | /
+24.2.2024, 17:20:26 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:20:41 - INFO - Req was made | /
+24.2.2024, 17:20:41 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:20:45 - INFO - Req was made | /
+24.2.2024, 17:20:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:20:50 - INFO - Req was made | /
+24.2.2024, 17:20:50 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:21:39 - INFO - Req was made | /
+24.2.2024, 17:21:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:22:08 - INFO - Req was made | /
+24.2.2024, 17:22:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:22:18 - INFO - Req was made | /
+24.2.2024, 17:22:18 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:22:45 - INFO - Req was made | /
+24.2.2024, 17:22:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false"}
+24.2.2024, 17:23:31 - INFO - server.js loaded...
+24.2.2024, 17:23:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:23:36 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:23:36 - INFO - Req was made | /
+24.2.2024, 17:23:36 - ERROR - cannot find toy | MongoInvalidArgumentError: Operation "skip" requires an integer
+24.2.2024, 17:23:36 - ERROR - Cannot get toys | MongoInvalidArgumentError: Operation "skip" requires an integer
+24.2.2024, 17:23:37 - INFO - Req was made | /
+24.2.2024, 17:23:37 - ERROR - cannot find toy | MongoInvalidArgumentError: Operation "skip" requires an integer
+24.2.2024, 17:23:37 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:23:37 - ERROR - Cannot get toys | MongoInvalidArgumentError: Operation "skip" requires an integer
+24.2.2024, 17:24:04 - INFO - server.js loaded...
+24.2.2024, 17:24:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:25:58 - INFO - server.js loaded...
+24.2.2024, 17:25:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:26:05 - INFO - server.js loaded...
+24.2.2024, 17:26:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:26:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:26:09 - INFO - Req was made | /
+24.2.2024, 17:26:12 - INFO - Req was made | /
+24.2.2024, 17:26:12 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:26:13 - INFO - Req was made | /
+24.2.2024, 17:26:13 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:27:31 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:27:31 - INFO - Req was made | /
+24.2.2024, 17:27:41 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:27:41 - INFO - Req was made | /
+24.2.2024, 17:27:42 - INFO - Req was made | /
+24.2.2024, 17:27:42 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:27:43 - INFO - Req was made | /
+24.2.2024, 17:27:43 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:27:45 - INFO - Req was made | /
+24.2.2024, 17:27:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:27:45 - INFO - Req was made | /
+24.2.2024, 17:27:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:27:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:27:49 - INFO - Req was made | /
+24.2.2024, 17:27:54 - INFO - Req was made | /
+24.2.2024, 17:27:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:29:15 - INFO - Req was made | /
+24.2.2024, 17:29:15 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:29:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:29:20 - INFO - Req was made | /
+24.2.2024, 17:29:39 - INFO - Req was made | /
+24.2.2024, 17:29:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:29:42 - INFO - Req was made | /
+24.2.2024, 17:29:42 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:30:40 - INFO - Req was made | /
+24.2.2024, 17:30:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:30:44 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:30:44 - INFO - Req was made | /
+24.2.2024, 17:31:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:31:20 - INFO - Req was made | /
+24.2.2024, 17:31:26 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:31:26 - INFO - Req was made | /
+24.2.2024, 17:31:43 - INFO - Req was made | /
+24.2.2024, 17:31:43 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:31:48 - INFO - Req was made | /
+24.2.2024, 17:31:48 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:32:12 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:32:12 - INFO - Req was made | /
+24.2.2024, 17:32:18 - INFO - Req was made | /
+24.2.2024, 17:32:18 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:34:05 - INFO - Req was made | /
+24.2.2024, 17:34:05 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:34:16 - INFO - Req was made | /
+24.2.2024, 17:34:16 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:34:17 - INFO - Req was made | /
+24.2.2024, 17:34:17 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:34:20 - INFO - Req was made | /
+24.2.2024, 17:34:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:34:43 - INFO - server.js loaded...
+24.2.2024, 17:34:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:34:45 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:34:45 - INFO - Req was made | /
+24.2.2024, 17:34:56 - INFO - Req was made | /
+24.2.2024, 17:34:56 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:34:57 - INFO - Req was made | /
+24.2.2024, 17:34:57 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:35:00 - INFO - Req was made | /
+24.2.2024, 17:35:00 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:35:01 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:35:01 - INFO - Req was made | /
+24.2.2024, 17:35:22 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:35:22 - INFO - Req was made | /
+24.2.2024, 17:39:12 - INFO - server.js loaded...
+24.2.2024, 17:39:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:41:59 - INFO - server.js loaded...
+24.2.2024, 17:41:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 17:42:15 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:42:15 - INFO - Req was made | /
+24.2.2024, 17:42:21 - INFO - Req was made | /
+24.2.2024, 17:42:21 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:42:22 - INFO - Req was made | /
+24.2.2024, 17:42:22 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:42:25 - INFO - Req was made | /
+24.2.2024, 17:42:25 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 17:42:47 - INFO - Req was made | /
+24.2.2024, 17:42:47 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 17:42:48 - INFO - Req was made | /
+24.2.2024, 17:42:48 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:42:49 - INFO - Req was made | /
+24.2.2024, 17:42:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 17:42:54 - INFO - Req was made | /
+24.2.2024, 17:42:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 18:16:38 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:16:38 - INFO - Req was made | /
+24.2.2024, 18:22:14 - INFO - server.js loaded...
+24.2.2024, 18:22:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:22:19 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:22:19 - INFO - Req was made | /
+24.2.2024, 18:22:23 - INFO - Req was made | /
+24.2.2024, 18:22:23 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:22:25 - INFO - Req was made | /
+24.2.2024, 18:22:25 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 18:23:49 - INFO - server.js loaded...
+24.2.2024, 18:23:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:23:54 - INFO - Req was made | /
+24.2.2024, 18:23:54 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:24:03 - INFO - server.js loaded...
+24.2.2024, 18:24:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:24:39 - INFO - server.js loaded...
+24.2.2024, 18:24:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:25:01 - INFO - Req was made | /
+24.2.2024, 18:25:01 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:25:06 - INFO - Req was made | /
+24.2.2024, 18:25:06 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:25:08 - INFO - Req was made | /
+24.2.2024, 18:25:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:25:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 18:25:09 - INFO - Req was made | /
+24.2.2024, 18:27:02 - INFO - Req was made | /
+24.2.2024, 18:27:02 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:27:03 - INFO - Req was made | /
+24.2.2024, 18:27:03 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:27:05 - INFO - Req was made | /
+24.2.2024, 18:27:05 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"-1"}
+24.2.2024, 18:27:09 - INFO - Req was made | /
+24.2.2024, 18:27:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:27:10 - INFO - Req was made | /
+24.2.2024, 18:27:10 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:27:11 - INFO - Req was made | /
+24.2.2024, 18:27:11 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:28:19 - INFO - Req was made | /
+24.2.2024, 18:28:19 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:28:27 - INFO - Req was made | /
+24.2.2024, 18:28:27 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:28:29 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:28:29 - INFO - Req was made | /
+24.2.2024, 18:28:29 - INFO - Req was made | /
+24.2.2024, 18:28:29 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:28:31 - INFO - Req was made | /
+24.2.2024, 18:28:31 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:28:33 - INFO - Req was made | /
+24.2.2024, 18:28:33 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:28:35 - INFO - Req was made | /
+24.2.2024, 18:28:35 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:28:35 - INFO - Req was made | /
+24.2.2024, 18:28:35 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:28:36 - INFO - Req was made | /
+24.2.2024, 18:28:36 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"3"}
+24.2.2024, 18:28:38 - INFO - Req was made | /
+24.2.2024, 18:28:38 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"4"}
+24.2.2024, 18:28:39 - INFO - Req was made | /
+24.2.2024, 18:28:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"3"}
+24.2.2024, 18:28:40 - INFO - Req was made | /
+24.2.2024, 18:28:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:28:41 - INFO - Req was made | /
+24.2.2024, 18:28:41 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:28:50 - INFO - Req was made | /
+24.2.2024, 18:28:50 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:29:08 - INFO - Req was made | /
+24.2.2024, 18:29:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:29:09 - INFO - Req was made | /
+24.2.2024, 18:29:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:29:22 - INFO - Req was made | /
+24.2.2024, 18:29:22 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:29:37 - INFO - Req was made | /
+24.2.2024, 18:29:37 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:29:39 - INFO - Req was made | /
+24.2.2024, 18:29:39 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:29:40 - INFO - Req was made | /
+24.2.2024, 18:29:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:29:55 - INFO - Req was made | /
+24.2.2024, 18:29:55 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:32:23 - INFO - server.js loaded...
+24.2.2024, 18:32:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:32:28 - INFO - Req was made | /
+24.2.2024, 18:32:28 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:32:33 - INFO - Req was made | /
+24.2.2024, 18:32:33 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:32:35 - INFO - Req was made | /
+24.2.2024, 18:32:35 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:32:35 - INFO - Req was made | /
+24.2.2024, 18:32:35 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:43:13 - INFO - server.js loaded...
+24.2.2024, 18:43:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:43:23 - INFO - server.js loaded...
+24.2.2024, 18:43:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:43:30 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:43:30 - INFO - Req was made | /
+24.2.2024, 18:43:49 - INFO - Req was made | /
+24.2.2024, 18:43:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:45:46 - INFO - server.js loaded...
+24.2.2024, 18:45:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:45:53 - INFO - Req was made | /
+24.2.2024, 18:45:53 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:46:06 - INFO - server.js loaded...
+24.2.2024, 18:46:06 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:46:08 - INFO - Req was made | /
+24.2.2024, 18:46:08 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 18:46:10 - INFO - Req was made | /
+24.2.2024, 18:46:10 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 18:46:10 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:46:10 - INFO - Req was made | /
+24.2.2024, 18:46:29 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:46:29 - INFO - Req was made | /
+24.2.2024, 18:49:39 - INFO - server.js loaded...
+24.2.2024, 18:49:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:49:46 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:49:45 - INFO - Req was made | /
+24.2.2024, 18:52:56 - INFO - server.js loaded...
+24.2.2024, 18:52:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:53:41 - INFO - server.js loaded...
+24.2.2024, 18:53:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:55:41 - INFO - server.js loaded...
+24.2.2024, 18:55:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:55:50 - INFO - server.js loaded...
+24.2.2024, 18:55:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:56:09 - INFO - Req was made | /
+24.2.2024, 18:56:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 18:58:06 - INFO - server.js loaded...
+24.2.2024, 18:58:06 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 18:59:49 - INFO - Req was made | /
+24.2.2024, 18:59:49 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:00:07 - INFO - Req was made | /
+24.2.2024, 19:00:07 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:00:13 - INFO - Req was made | /
+24.2.2024, 19:00:13 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:00:26 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:00:26 - INFO - Req was made | /
+24.2.2024, 19:01:15 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:01:15 - INFO - Req was made | /
+24.2.2024, 19:01:23 - INFO - Req was made | /
+24.2.2024, 19:01:23 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:02:16 - INFO - Req was made | /
+24.2.2024, 19:02:16 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:03:26 - INFO - server.js loaded...
+24.2.2024, 19:03:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:04:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:04:45 - INFO - server.js loaded...
+24.2.2024, 19:04:56 - INFO - server.js loaded...
+24.2.2024, 19:04:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:08:18 - INFO - server.js loaded...
+24.2.2024, 19:08:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:08:30 - DEBUG - auth.service - login with username: puki
+24.2.2024, 19:08:30 - ERROR - Failed to Login Error: Invalid username or password
+24.2.2024, 19:11:25 - INFO - server.js loaded...
+24.2.2024, 19:11:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:11:42 - DEBUG - auth.service - login with username: puki
+24.2.2024, 19:11:42 - ERROR - Failed to Login Error: Invalid username or password
+24.2.2024, 19:12:09 - DEBUG - auth.service - login with username: puki
+24.2.2024, 19:12:09 - ERROR - Failed to Login Error: Invalid username or password
+24.2.2024, 19:15:03 - INFO - server.js loaded...
+24.2.2024, 19:15:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:15:07 - INFO - server.js loaded...
+24.2.2024, 19:15:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:17:28 - INFO - server.js loaded...
+24.2.2024, 19:17:28 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:17:40 - INFO - server.js loaded...
+24.2.2024, 19:17:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:17:49 - DEBUG - auth.service - login with username: puki
+24.2.2024, 19:17:49 - ERROR - Failed to Login Error: Invalid username or password
+24.2.2024, 19:18:36 - INFO - server.js loaded...
+24.2.2024, 19:18:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:18:45 - DEBUG - auth.service - login with username: puki
+24.2.2024, 19:18:45 - ERROR - Failed to Login Error: Invalid username or password
+24.2.2024, 19:26:23 - INFO - server.js loaded...
+24.2.2024, 19:26:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:26:42 - INFO - server.js loaded...
+24.2.2024, 19:26:42 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:26:57 - DEBUG - auth.service - signup with username: lala, fullname: yacov eda
+24.2.2024, 19:26:57 - ERROR - cannot insert user | Error: Username taken
+24.2.2024, 19:26:57 - ERROR - Failed to signup Error: Username taken
+24.2.2024, 19:27:20 - DEBUG - auth.service - signup with username: lala2, fullname: yacov eda
+24.2.2024, 19:27:20 - DEBUG - auth.route - new account created: {"username":"lala2","password":"$2b$10$NwXEg04PsrNYHoJfWFoxb.cIJ6ISDqX5nMy3FqyhzER6Qh9JKOuZm","fullname":"yacov eda","score":0,"_id":"65da26f8f502b3187cee956d"}
+24.2.2024, 19:27:20 - DEBUG - auth.service - login with username: lala2
+24.2.2024, 19:27:38 - DEBUG - auth.service - login with username: lala2
+24.2.2024, 19:27:38 - INFO - User login:  | {"_id":"65da26f8f502b3187cee956d","username":"lala2","fullname":"yacov eda","score":0}
+24.2.2024, 19:27:52 - DEBUG - auth.service - login with username: lala
+24.2.2024, 19:27:52 - ERROR - Failed to Login Error: Invalid username or password
+24.2.2024, 19:29:33 - DEBUG - auth.service - signup with username: admin, fullname: mister toy
+24.2.2024, 19:29:33 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$qK4j2WmNU14vd6dOTGDq4e/SjkdOAHDyGrIrrQTO5p/zxL.NxK9Je","fullname":"mister toy","score":0,"_id":"65da277df502b3187cee956e"}
+24.2.2024, 19:29:33 - DEBUG - auth.service - login with username: admin
+24.2.2024, 19:30:56 - INFO - server.js loaded...
+24.2.2024, 19:30:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.2.2024, 19:31:40 - INFO - Req was made | /
+24.2.2024, 19:31:40 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 19:31:43 - INFO - Req was made | /
+24.2.2024, 19:31:43 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 19:32:00 - DEBUG - auth.service - login with username: admin
+24.2.2024, 19:32:00 - INFO - User login:  | {"_id":"65da277df502b3187cee956e","username":"admin","fullname":"mister toy","score":0,"isAdmin":"true"}
+24.2.2024, 19:32:07 - INFO - Req was made | /
+24.2.2024, 19:32:07 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 19:32:13 - INFO - Req was made | /
+24.2.2024, 19:32:13 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 19:32:20 - INFO - Req was made | /
+24.2.2024, 19:32:20 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:32:27 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}
+24.2.2024, 19:32:27 - INFO - Req was made | /
+24.2.2024, 19:32:33 - INFO - Req was made | /
+24.2.2024, 19:32:33 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+24.2.2024, 19:32:36 - INFO - Req was made | /
+24.2.2024, 19:32:36 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"1"}
+24.2.2024, 19:32:36 - INFO - Req was made | /
+24.2.2024, 19:32:36 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"2"}

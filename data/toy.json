@@ -7,7 +7,6 @@
             "Art"
         ],
         "inStock": true,
-        "_id": "u0a5J",
         "createdAt": 1708717749988
     },
     {
@@ -18,11 +17,9 @@
             "Baby"
         ],
         "inStock": true,
-        "_id": "S2qqE",
         "createdAt": 1708444449214
     },
     {
-        "_id": "t101",
         "name": "Bruklyn barbie",
         "price": 45,
         "labels": [
@@ -34,7 +31,6 @@
         "url": "../assets/img/1.jpeg"
     },
     {
-        "_id": "t102",
         "name": "Fancy barbie2",
         "price": 48,
         "labels": [
@@ -46,7 +42,6 @@
         "url": "./assets/img/2.jpeg"
     },
     {
-        "_id": "t103",
         "name": "Vacation barbie",
         "price": 50,
         "labels": [
@@ -58,7 +53,6 @@
         "url": "./assets/img/3.jpeg"
     },
     {
-        "_id": "t104",
         "name": "Ken barbie",
         "price": 35,
         "labels": [
@@ -70,7 +64,6 @@
         "url": "./assets/img/4.jpeg"
     },
     {
-        "_id": "t105",
         "name": "Talking Doll",
         "price": 123,
         "labels": [
@@ -83,7 +76,6 @@
         "url": "./assets/img/5.jpeg"
     },
     {
-        "_id": "t106",
         "name": "Car",
         "price": 280,
         "labels": [
@@ -96,7 +88,6 @@
         "url": "./assets/img/6.jpeg"
     },
     {
-        "_id": "t107",
         "name": "Monopoly",
         "price": 70,
         "labels": [
@@ -107,7 +98,6 @@
         "url": "./assets/img/7.jpeg"
     },
     {
-        "_id": "t108",
         "name": "Puzzle 12000 pieces",
         "price": 120,
         "labels": [
@@ -118,7 +108,6 @@
         "url": "./assets/img/8.jpeg"
     },
     {
-        "_id": "t109",
         "name": "Baby table",
         "price": 105,
         "labels": [
@@ -129,7 +118,6 @@
         "url": "./assets/img/9.jpeg"
     },
     {
-        "_id": "t110",
         "name": "Baby university",
         "price": 199,
         "labels": [

@@ -5,8 +5,7 @@ import cors from 'cors'
 import { fileURLToPath } from 'url'
 
 
-import { toyService } from './services/toy.service.js'
-import { userService } from './services/user.service.js'
+
 import { loggerService } from './services/logger.service.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -38,14 +37,14 @@ if (process.env.NODE_ENV === 'production') {
 
 // routes
 
-/*import { authRoutes } from './'
+import { authRoutes } from './api/auth/auth.routes.js'
 app.use('/api/auth', authRoutes)
 
 import { userRoutes } from './api/user/user.routes.js'
 app.use('/api/user', userRoutes)
 
-import { carRoutes } from './api/car/car.routes.js'
-app.use('/api/car', carRoutes)
+import { toyRoutes } from './api/toy/toy.routes.js'
+app.use('/api/toy', toyRoutes)
 
 // Make every unmatched server-side-route fall back to index.html
 // So when requesting http://localhost:3030/index.html/car/123 it will still respond with
