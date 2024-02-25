@@ -7,10 +7,23 @@ export const dbService = {
     getCollection
 }
 
-const config = {
+let config /*= {
     dbURL: 'mongodb://127.0.0.1:27017',
     dbName: 'mister-toy',
-}
+}*/
+if (process.env.NODE_ENV === 'production') {
+    config = {
+        dbURL: process.env.MONGODB_URI,
+        dbName: 'mister-toy'
+    }
+  } else {
+    config = {
+        dbURL: 'mongodb://127.0.0.1:27017',
+        dbName: 'mister-toy',
+    }
+  }
+  config.isGuestMode = true
+
 
 var dbConn = null
 
