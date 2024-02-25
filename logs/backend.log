@@ -1369,3 +1369,33 @@
 25.2.2024, 11:21:15 - INFO - Req was made | /
 25.2.2024, 11:21:21 - ERROR - cannot update toy 65da04c5b6dc3298de6adb31 | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
 25.2.2024, 11:21:21 - ERROR - Failed to update toy | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+25.2.2024, 11:27:14 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+25.2.2024, 11:27:14 - INFO - Req was made | /
+25.2.2024, 11:27:23 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+25.2.2024, 11:27:23 - INFO - Req was made | /
+25.2.2024, 11:41:45 - INFO - server.js loaded...
+25.2.2024, 11:41:45 - INFO - Server listening on port http://127.0.0.1:3030/
+25.2.2024, 11:42:01 - INFO - Req was made | /
+25.2.2024, 11:42:01 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+25.2.2024, 11:42:09 - INFO - Req was made | /
+25.2.2024, 11:42:09 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+25.2.2024, 11:42:16 - ERROR - Failed to update toy | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+25.2.2024, 11:42:16 - ERROR - cannot update toy 65da04c5b6dc3298de6adb31 | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+25.2.2024, 11:43:31 - INFO - server.js loaded...
+25.2.2024, 11:43:31 - INFO - Server listening on port http://127.0.0.1:3030/
+25.2.2024, 11:43:45 - ERROR - cannot update toy 65da04c5b6dc3298de6adb31 | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+25.2.2024, 11:43:45 - ERROR - Failed to update toy | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id'
+25.2.2024, 11:45:03 - INFO - server.js loaded...
+25.2.2024, 11:45:03 - INFO - Server listening on port http://127.0.0.1:3030/
+25.2.2024, 11:45:25 - INFO - server.js loaded...
+25.2.2024, 11:45:25 - INFO - Server listening on port http://127.0.0.1:3030/
+25.2.2024, 11:48:21 - INFO - Server listening on port http://127.0.0.1:3030/
+25.2.2024, 11:48:21 - INFO - server.js loaded...
+25.2.2024, 11:48:28 - INFO - Server listening on port http://127.0.0.1:3030/
+25.2.2024, 11:48:28 - INFO - server.js loaded...
+25.2.2024, 11:48:33 - INFO - Req was made | /
+25.2.2024, 11:48:33 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+25.2.2024, 11:48:38 - INFO - Req was made | /
+25.2.2024, 11:48:38 - DEBUG - Getting Toys | {"name":"","maxPrice":0,"inStock":"","labels":[],"sortBy":"","sortByDir":"false","pageIdx":"0"}
+25.2.2024, 11:49:19 - INFO - server.js loaded...
+25.2.2024, 11:49:19 - INFO - Server listening on port http://127.0.0.1:3030/
