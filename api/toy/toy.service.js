@@ -10,8 +10,8 @@ export const toyService = {
     getById,
     add,
     update,
-    addCarMsg,
-    removeCarMsg
+    addToyMsg,
+    removeToyMsg
 }
 
 
@@ -62,7 +62,9 @@ async function query(filterBy = { name: '' }) {
     try {      
         const collection = await dbService.getCollection('toy')
         var toys = await collection.find(criteria).sort(sortCriteria).skip(pageIdx*MAX_TOYS_ON_PAGE).limit(MAX_TOYS_ON_PAGE).toArray()
-        return toys
+        var toysLen = await collection.find(criteria).count()
+       const maxPages = Math.ceil(toysLen/MAX_TOYS_ON_PAGE)
+        return {toys,maxPages}
     } catch (err) {
         loggerService.error('cannot find toy', err)
         throw err
@@ -103,16 +105,9 @@ async function add(toy) {
 
 async function update(toy) {
     try {
-        const toyToSave = {
-            name: toy.name,
-            price: toy.price,
-            labels:toy.labels,
-            inStock:toy.inStock,
-            createdAt:toy.createdAt
-        }
-        console.log('toyToSave',toyToSave)
+        console.log('toyToSave',toy)
         const collection = await dbService.getCollection('toy')
-        await collection.updateOne({ _id: new ObjectId(toy._id) }, { $set: toyToSave })
+        await collection.updateOne({ _id: new ObjectId(toy._id) }, { $set: toy })
         return toy
     } catch (err) {
         loggerService.error(`cannot update toy ${toy._id}`, err)
@@ -120,25 +115,26 @@ async function update(toy) {
     }
 }
 
-async function addCarMsg(carId, msg) {
+async function addToyMsg(toyId, msg) {
     try {
         msg.id = utilService.makeId()
-        const collection = await dbService.getCollection('car')
-        await collection.updateOne({ _id: new ObjectId(carId) }, { $push: { msgs: msg } })
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne({ _id: new ObjectId(toyId) }, { $push: { msgs: msg } })
         return msg
     } catch (err) {
-        loggerService.error(`cannot add car msg ${carId}`, err)
+        loggerService.error(`cannot add toy msg ${toyId}`, err)
         throw err
     }
 }
 
-async function removeCarMsg(carId, msgId) {
+async function removeToyMsg(toyId, msgId) {
+    console.log(toyId, msgId)
     try {
-        const collection = await dbService.getCollection('car')
-        await collection.updateOne({ _id: new ObjectId(carId) }, { $pull: { msgs: {id: msgId} } })
+        const collection = await dbService.getCollection('toy')
+        await collection.updateOne({ _id: new ObjectId(toyId) }, { $pull: { msgs: {id: msgId} } })
         return msgId
     } catch (err) {
-        loggerService.error(`cannot add car msg ${carId}`, err)
+        loggerService.error(`cannot add toy msg ${toyId}`, err)
         throw err
     }
 }

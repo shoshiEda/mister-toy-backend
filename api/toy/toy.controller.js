@@ -1,7 +1,6 @@
 import { loggerService } from '../../services/logger.service.js'
 import { toyService } from './toy.service.js'
 
-console.log('hi')
 
 
 export async function getToys(req, res) {
@@ -52,7 +51,6 @@ export async function addToy(req, res) {
 }
 
 export async function updateToy(req, res) {
-   
     try {
         const toy = req.body
         console.log('toy:',toy)
@@ -78,30 +76,31 @@ export async function removeToy(req, res) {
 
 export async function addToyMsg(req, res) {
     const { loggedinUser } = req
+    console.log('req.body',req.body)
     try {
-        const carId = req.params.id
+        const toyId = req.params.id
         const msg = {
             txt: req.body.txt,
             by: loggedinUser,
         }
-        const savedMsg = await carService.addCarMsg(carId, msg)
+        const savedMsg = await toyService.addToyMsg(toyId, msg)
         res.json(savedMsg)
     } catch (err) {
-        loggerService.error('Failed to update car', err)
-        res.status(500).send({ err: 'Failed to update car' })
+        loggerService.error('Failed to update toy', err)
+        res.status(500).send({ err: 'Failed to update toy' })
     }
 }
 
 export async function removeToyMsg(req, res) {
     // const { loggedinUser } = req
-    try {
-        const carId = req.params.id
+    
+        const toyId = req.params.id
         const { msgId } = req.params
-
-        const removedId = await carService.removeCarMsg(carId, msgId)
+    try{
+        const removedId = await toyService.removeToyMsg(toyId, msgId)
         res.send(removedId)
     } catch (err) {
-        loggerService.error('Failed to remove car msg', err)
-        res.status(500).send({ err: 'Failed to remove car msg' })
+        loggerService.error('Failed to remove toy msg', err)
+        res.status(500).send({ err: 'Failed to remove toy msg' })
     }
 }

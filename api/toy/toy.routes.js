@@ -9,7 +9,6 @@ export const toyRoutes = express.Router()
 // middleware that is specific to this router
 // router.use(requireAuth)
 
-console.log('toyRoutes',toyRoutes)
 
 toyRoutes.get('/', log, getToys)
 toyRoutes.get('/:id', getToyById)
