@@ -14,12 +14,12 @@ let config /*= {
 if (process.env.NODE_ENV === 'production') {
     config = {
         dbURL: process.env.MONGODB_URI,
-        dbName: 'mister-toy'
+        dbName: 'follow-my-cases'
     }
   } else {
     config = {
         dbURL: 'mongodb://127.0.0.1:27017',
-        dbName: 'mister-toy',
+        dbName: 'follow-my-cases',
     }
   }
   config.isGuestMode = true

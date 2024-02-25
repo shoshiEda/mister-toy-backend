@@ -37,14 +37,8 @@ if (process.env.NODE_ENV === 'production') {
 
 // routes
 
-import { authRoutes } from './api/auth/auth.routes.js'
-app.use('/api/auth', authRoutes)
-
-import { userRoutes } from './api/user/user.routes.js'
-app.use('/api/user', userRoutes)
-
-import { toyRoutes } from './api/toy/toy.routes.js'
-app.use('/api/toy', toyRoutes)
+import { caseRoutes } from './api/case/case.routes.js'
+app.use('/api/case', caseRoutes)
 
 // Make every unmatched server-side-route fall back to index.html
 // So when requesting http://localhost:3030/index.html/car/123 it will still respond with
