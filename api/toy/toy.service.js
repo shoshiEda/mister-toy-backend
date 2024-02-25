@@ -96,6 +96,9 @@ async function add(toy) {
     try {
         const collection = await dbService.getCollection('toy')
         await collection.insertOne(toy)
+        /*const allToys = await collection.find({}).toArray()
+        allToys.unshift(toy)
+        await collection.insertMany(allToys)*/
         return toy
     } catch (err) {
         loggerService.error('cannot insert toy', err)
