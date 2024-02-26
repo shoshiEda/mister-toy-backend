@@ -13,11 +13,12 @@ let config /*= {
 }*/
 if (process.env.NODE_ENV === 'production') {
     config = {
-        dbURL: process.env.MONGODB_URI,
+        dbURL:'mongodb+srv://shoshi:shoshi306@cluster0.dznxxh8.mongodb.net/?retryWrites=true&w=majority',
         dbName: 'follow-my-cases'
     }
   } else {
     config = {
+        //dbURL:'mongodb+srv://shoshi:shoshi306@cluster0.dznxxh8.mongodb.net/?retryWrites=true&w=majority',
         dbURL: 'mongodb://127.0.0.1:27017',
         dbName: 'follow-my-cases',
     }

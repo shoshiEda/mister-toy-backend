@@ -1934,3 +1934,65 @@
 25.2.2024, 21:39:20 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
 25.2.2024, 21:39:22 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
 25.2.2024, 21:39:24 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:11:06 - INFO - server.js loaded...
+26.2.2024, 15:11:06 - INFO - Server listening on port http://127.0.0.1:3030/
+26.2.2024, 15:11:28 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:11:31 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:11:32 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 15:11:35 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:38:21 - INFO - server.js loaded...
+26.2.2024, 15:38:21 - INFO - Server listening on port http://127.0.0.1:3030/
+26.2.2024, 15:38:30 - INFO - server.js loaded...
+26.2.2024, 15:38:30 - INFO - Server listening on port http://127.0.0.1:3030/
+26.2.2024, 15:38:34 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:38:39 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 15:38:40 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 15:38:44 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:38:53 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:38:55 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 15:39:02 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 15:39:04 - DEBUG - Getting Cases | {"txt":"","isSent":"true","sortBy":"","pageIdx":0}
+26.2.2024, 15:40:04 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 15:40:55 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:04:51 - INFO - server.js loaded...
+26.2.2024, 16:04:51 - INFO - Server listening on port http://127.0.0.1:3030/
+26.2.2024, 16:05:03 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:05 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:09 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 16:05:12 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:21 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:23 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":1}
+26.2.2024, 16:05:26 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:28 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:33 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:35 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:39 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:41 - DEBUG - Getting Cases | {"txt":"1","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:42 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:45 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:46 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:46 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:47 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:47 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:47 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:48 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:48 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:48 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:48 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:48 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:48 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:49 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:49 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:49 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:49 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:50 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:50 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"rdate","pageIdx":0}
+26.2.2024, 16:05:53 - DEBUG - Getting Cases | {"txt":"","isSent":"true","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:54 - DEBUG - Getting Cases | {"txt":"","isSent":"true","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:55 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:58 - DEBUG - Getting Cases | {"txt":"","isSent":"true","sortBy":"","pageIdx":0}
+26.2.2024, 16:05:59 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:07:20 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:07:28 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:07:39 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+26.2.2024, 16:07:41 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
