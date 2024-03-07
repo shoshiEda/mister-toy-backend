@@ -1996,3 +1996,13 @@
 26.2.2024, 16:07:28 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
 26.2.2024, 16:07:39 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
 26.2.2024, 16:07:41 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+7.3.2024, 21:08:35 - INFO - server.js loaded...
+7.3.2024, 21:08:35 - INFO - Server listening on port http://127.0.0.1:3030/
+7.3.2024, 21:09:25 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+7.3.2024, 21:09:36 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+7.3.2024, 22:30:00 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+7.3.2024, 22:33:07 - DEBUG - Getting Cases | {"txt":"","isSent":"false","sortBy":"","pageIdx":0}
+7.3.2024, 23:06:15 - INFO - server.js loaded...
+7.3.2024, 23:06:15 - INFO - Server listening on port http://127.0.0.1:3030/
+7.3.2024, 23:06:17 - INFO - Server listening on port http://127.0.0.1:3030/
+7.3.2024, 23:06:17 - INFO - server.js loaded...
